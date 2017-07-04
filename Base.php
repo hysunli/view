@@ -1,5 +1,5 @@
 <?php
-namespace houdunwang\view;
+namespace hysunli\view;
 class Base{
 	private $file;
 	private $var = [];
